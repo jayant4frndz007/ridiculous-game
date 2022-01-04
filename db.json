@@ -1,0 +1,26 @@
+{
+    "questions": [
+      { "id": 1, "title": "What comes after two days before friday?", "answer": "thursday" }
+    ],
+    "done": [
+        { "id": 1, "question_id":1,"title": "What comes after two days before friday?", "answer": "thursday" }
+    ],
+    "score": [
+        { "id":1, "name":"Clifton","score":0},
+        { "id":2, "name":"Shiva","score":0},
+        { "id":3, "name":"Uma","score":0},
+        { "id":4, "name":"Ivana","score":0},
+        { "id":5, "name":"Shrunali","score":0},
+        { "id":6, "name":"Bhavya","score":0},
+        { "id":7, "name":"Jayant","score":0},
+        { "id":8, "name":"Shubendu","score":0},
+        { "id":9, "name":"Krushna","score":0},
+        { "id":10, "name":"Tanisha","score":0},
+        { "id":11, "name":"Anoop","score":0},
+        { "id":12, "name":"Rakshith","score":0},
+        { "id":13, "name":"Deepak","score":0},
+        { "id":14, "name":"Priya","score":0},
+        { "id":15, "name":"Priyank","score":0}
+
+    ]
+}
